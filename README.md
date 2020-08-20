@@ -7,6 +7,6 @@
     3.  构造双臂，伪元素使用同上。
     4.  构造双腿，同上。
     
-### Baybig的demo演示
+### Baymax的demo演示
 [demo](https://muyucat.github.io/Baymax/./index.html)
     
